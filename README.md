@@ -1,0 +1,1 @@
+Projeto feito com ReactJS, executando o arquivo db.json com jsonServer
